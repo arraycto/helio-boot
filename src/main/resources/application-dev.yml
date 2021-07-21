@@ -1,0 +1,24 @@
+helio:
+  crud:
+    db-driver-class: com.mysql.cj.jdbc.Driver
+    db-type: mysql
+    db-host: localhost
+    db-port: 3306
+    db-username: root
+    db-password: root
+    db-name: helio_boot
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: foobared
+    database: 1
+
+knife4j:
+  # 生产环境务必设为true
+  production: false
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
