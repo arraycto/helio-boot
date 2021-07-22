@@ -1,7 +1,7 @@
 # helio-boot
 
 ## 项目介绍
-`helio-boot`基于JDK15 + Spring Boot，是一款预置SaaS能力的单体项目脚手架，适合初学者学习、老手接外包干私活、初创企业快速上马项目
+`helio-boot`基于JDK15 + Spring Boot 2.4.8，是一款预置SaaS能力的单体项目脚手架，适合初学者学习、老手接外包干私活、初创企业快速上马项目
 
 需要先安装`helio-starters`，可参考[官方文档](https://helio.uncarbon.cc/)
 
